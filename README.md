@@ -40,5 +40,5 @@ sdfsdfsd
 
 ```sh
 swapoff -a
-sed -i '/ swap / s/^\(.*\)$/#\1/g' /etc/fstab 
+sed -i '/ swap / s/^\(.*\)$/#\1/g' /etc/fstab sdfsfsdfsdfsdfsdfs士大夫 sdfsdfsfsdf sdfs sdfs sdfs sdfs sdfs sdfs sdfs sdfs sdfs sdfs sdfs sdfs sdfs sdfs sdfs sdfs sdfs 
 ```
