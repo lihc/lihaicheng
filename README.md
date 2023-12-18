@@ -33,6 +33,9 @@ sdfsdfsd
 | ---- | ---- | ----------- | ----------------- | ------------ |
 | TCP  | 入站 | 10250       | Kubelet API       | 自身, 控制面 |
 | TCP  | 入站 | 30000-32767 | NodePort Services | 所有         |
+| TCP  | 入站 | 30000-32767 | NodePort Services | 所有         |
+| TCP  | 入站 | 30000-32767 | NodePort Services | 所有         |
+| TCP  | 入站 | 30000-32767 | NodePort Services | 所有         |
 
 
 ```sh
